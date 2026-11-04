@@ -1,16 +1,16 @@
 {
     "format":  1,
     "applicationId":  "com.shihabapp.shihablms.staff",
-    "tag":  "shihablms-staff-0.1.5",
-    "version":  "0.1.5",
-    "versionCode":  105006,
+    "tag":  "shihablms-staff-0.1.8",
+    "version":  "0.1.8",
+    "versionCode":  108009,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-staff-0.1.5.apk",
-                "size":  415933,
-                "sha256":  "f91187e754975a1a28429fe46110f4c27a507354eb266ae84b0281e92071db80",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-staff-0.1.5/ShihabLms-staff-0.1.5.apk"
+                "name":  "ShihabLms-staff-0.1.8.apk",
+                "size":  454141,
+                "sha256":  "b911bcad76d89ecb5ee2cd6a6d92c729e68a8bed58b57bbfcde39d2c52f26dea",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-staff-0.1.8/ShihabLms-staff-0.1.8.apk"
             },
     "signingCertSha256":  "d5c256eb49ead5b28abe8da52475d56dd3a910f38077342b9ab2505d57906b5e",
-    "builtAt":  "2026-11-01T02:29:32Z"
+    "builtAt":  "2026-11-04T16:43:09Z"
 }
