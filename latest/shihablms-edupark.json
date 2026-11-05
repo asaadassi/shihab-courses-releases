@@ -2,16 +2,16 @@
     "format":  1,
     "instituteId":  "edupark",
     "applicationId":  "com.Perfect.center.edu.park",
-    "tag":  "shihablms-edupark-0.4.25",
-    "version":  "0.4.25",
-    "versionCode":  425035,
+    "tag":  "shihablms-edupark-0.4.26",
+    "version":  "0.4.26",
+    "versionCode":  426036,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-edupark-0.4.25.apk",
-                "size":  1878065,
-                "sha256":  "af7be5bd8219e7c5c94f6eaebc43fa4d6cddca44c9ca78dc4ae0774d53802f1a",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.25/ShihabLms-edupark-0.4.25.apk"
+                "name":  "ShihabLms-edupark-0.4.26.apk",
+                "size":  1877957,
+                "sha256":  "d9ca4445412b2680a27b06fbdbef8ea2e95b0d600c66fc942cbf25ff84489bb0",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.26/ShihabLms-edupark-0.4.26.apk"
             },
     "signingCertSha256":  "36706ead52f579defd7295009e6c69128e268403c3f482aa4bcbfcf7f6c703de",
-    "builtAt":  "2026-11-05T14:47:53Z"
+    "builtAt":  "2026-11-05T19:36:25Z"
 }
