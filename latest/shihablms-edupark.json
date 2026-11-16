@@ -2,17 +2,17 @@
     "format":  1,
     "instituteId":  "edupark",
     "applicationId":  "com.Perfect.center.edu.park",
-    "tag":  "shihablms-edupark-0.4.44",
-    "version":  "0.4.44",
-    "versionCode":  444054,
+    "tag":  "shihablms-edupark-0.4.45",
+    "version":  "0.4.45",
+    "versionCode":  445055,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-edupark-0.4.44.apk",
-                "size":  2340310,
-                "sha256":  "b799230c0545f8ba264ae2ccfe79b1331c29f50355288c9bcbf8b7f6b4774b9f",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.44/ShihabLms-edupark-0.4.44.apk"
+                "name":  "ShihabLms-edupark-0.4.45.apk",
+                "size":  2340794,
+                "sha256":  "8a624355c3fca26b62e6ea82f8464c24f047ec85fdf9b987f6c20c2e601a9b4b",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.45/ShihabLms-edupark-0.4.45.apk"
             },
     "signingCertSha256":  "36706ead52f579defd7295009e6c69128e268403c3f482aa4bcbfcf7f6c703de",
-    "builtAt":  "2026-11-16T09:28:36Z",
-    "notes":  "\u003c!-- update\nmandatory: false\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- تحسين تشخيص توقف التنزيل على بعض الهواتف، لمعالجته بدقة.\n\n\u003c!-- source-commit: b8846a3a979fb779fa056a342dcd650ad6610719-dirty --\u003e\n"
+    "builtAt":  "2026-11-16T13:24:44Z",
+    "notes":  "\u003c!-- update\nmandatory: true\n--\u003e\n\u003c!-- ar --\u003e\n\n\u003c!-- source-commit: 56b1528ae8ccb4f2c2de9dd5fb89dd16d120e9c0-dirty --\u003e\n"
 }
