@@ -1,17 +1,17 @@
 {
     "format":  1,
     "applicationId":  "com.shihabapp.shihablms.staff",
-    "tag":  "shihablms-staff-0.1.26",
-    "version":  "0.1.26",
-    "versionCode":  126027,
+    "tag":  "shihablms-staff-0.1.27",
+    "version":  "0.1.27",
+    "versionCode":  127028,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-staff-0.1.26.apk",
-                "size":  643853,
-                "sha256":  "14f4dcab97863825cf15054d5a5af8a59de522fc95720401fe1e538cd8ecdfb5",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-staff-0.1.26/ShihabLms-staff-0.1.26.apk"
+                "name":  "ShihabLms-staff-0.1.27.apk",
+                "size":  669289,
+                "sha256":  "6b80a6caa4bac12e86773fba2d9dc2b0d83bb92c664630607a482b8712ee6d3b",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-staff-0.1.27/ShihabLms-staff-0.1.27.apk"
             },
     "signingCertSha256":  "d5c256eb49ead5b28abe8da52475d56dd3a910f38077342b9ab2505d57906b5e",
-    "builtAt":  "2026-11-16T13:26:21Z",
-    "notes":  "\u003c!-- update\nmandatory: true\n--\u003e\n\u003c!-- ar --\u003e\n\n\u003c!-- source-commit: 56b1528ae8ccb4f2c2de9dd5fb89dd16d120e9c0-dirty --\u003e\n"
+    "builtAt":  "2026-11-16T15:24:26Z",
+    "notes":  "\u003c!-- update\nmandatory: true\n--\u003e\n\u003c!-- ar --\u003e\n\n\u003c!-- source-commit: e1dc2d1ce98060a8eee273e62eda522d4acacffc-dirty --\u003e\n"
 }
