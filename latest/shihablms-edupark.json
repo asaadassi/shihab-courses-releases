@@ -2,16 +2,17 @@
     "format":  1,
     "instituteId":  "edupark",
     "applicationId":  "com.Perfect.center.edu.park",
-    "tag":  "shihablms-edupark-0.4.42",
-    "version":  "0.4.42",
-    "versionCode":  442052,
+    "tag":  "shihablms-edupark-0.4.43",
+    "version":  "0.4.43",
+    "versionCode":  443053,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-edupark-0.4.42.apk",
-                "size":  2335638,
-                "sha256":  "f259ef67b179b07023b32ae602f1a96a552463ac95081c57867e6421f70d46d6",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.42/ShihabLms-edupark-0.4.42.apk"
+                "name":  "ShihabLms-edupark-0.4.43.apk",
+                "size":  2339678,
+                "sha256":  "c6d4a9335fff55363de3ff97901068bffc80bba48639c35471ed2b618b00c6bf",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.43/ShihabLms-edupark-0.4.43.apk"
             },
     "signingCertSha256":  "36706ead52f579defd7295009e6c69128e268403c3f482aa4bcbfcf7f6c703de",
-    "builtAt":  "2026-11-15T10:15:49Z"
+    "builtAt":  "2026-11-16T06:54:07Z",
+    "notes":  "\u003c!-- update\nmandatory: false\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- التنزيل يكمل وحده من حيث توقف إذا أغلق الهاتف التطبيق أثناءه، مع تنبيه لإعداد يمنع إغلاقه.\n- خطأ عابر من الخادم لا يوقف التنزيل بعد الآن.\n- وصول التحديثات أسرع وأضمن.\n\n\u003c!-- source-commit: 943be2f41b3225b02a086b0e9e8f5a4c6614e41d-dirty --\u003e\n"
 }
