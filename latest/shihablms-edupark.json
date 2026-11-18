@@ -2,17 +2,17 @@
     "format":  1,
     "instituteId":  "edupark",
     "applicationId":  "com.Perfect.center.edu.park",
-    "tag":  "shihablms-edupark-0.4.46",
-    "version":  "0.4.46",
-    "versionCode":  446056,
+    "tag":  "shihablms-edupark-0.4.47",
+    "version":  "0.4.47",
+    "versionCode":  447057,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-edupark-0.4.46.apk",
-                "size":  2352626,
-                "sha256":  "e8e7e338c755f04e2cf7ee7a4e3a5dca0cc259c1946cfef62cf468c684bea5a4",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.46/ShihabLms-edupark-0.4.46.apk"
+                "name":  "ShihabLms-edupark-0.4.47.apk",
+                "size":  2371450,
+                "sha256":  "fde7fdd0b759d5606f29979abe936a456eb082fe7fcf2da964606b488ed898d3",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.47/ShihabLms-edupark-0.4.47.apk"
             },
     "signingCertSha256":  "36706ead52f579defd7295009e6c69128e268403c3f482aa4bcbfcf7f6c703de",
-    "builtAt":  "2026-11-17T13:14:27Z",
-    "notes":  "\u003c!-- update\nmandatory: true\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- «إدارة الرخص» في الإعدادات: يمكنك إلغاء اشتراك كورس من جهازك.\n- تنزيل أثبت على الهواتف التي كانت توقف التنزيل وحدها.\n\n\u003c!-- source-commit: f8a8ecf4f9343923c3626cc787928a9446374a26-dirty --\u003e\n"
+    "builtAt":  "2026-11-18T12:24:38Z",
+    "notes":  "\u003c!-- update\nmandatory: false\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- العروض الخاصة: كود واحد يفعّل عدة كورسات معاً، وشريط «العروض الخاصة» في الرئيسية بالسعر والتوفير.\n- «مقترح لك»: اختر الأقسام التي تهمّك، فتظهر لك العروض والكورسات المناسبة أعلى الرئيسية. تغيّرها من «اهتماماتي» في الإعدادات.\n\n\u003c!-- source-commit: 176ff96039ca0c77cd9111cc9f570e4e697a7b43 --\u003e\n"
 }
