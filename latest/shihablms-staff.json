@@ -1,17 +1,17 @@
 {
     "format":  1,
     "applicationId":  "com.shihabapp.shihablms.staff",
-    "tag":  "shihablms-staff-0.1.28",
-    "version":  "0.1.28",
-    "versionCode":  128029,
+    "tag":  "shihablms-staff-0.1.29",
+    "version":  "0.1.29",
+    "versionCode":  129030,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-staff-0.1.28.apk",
-                "size":  675617,
-                "sha256":  "a98971eee561ecafc7073cbbc389b5b986098afa11ee4a61ef3bdf8490b36812",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-staff-0.1.28/ShihabLms-staff-0.1.28.apk"
+                "name":  "ShihabLms-staff-0.1.29.apk",
+                "size":  679809,
+                "sha256":  "b0bbea0869506f355dd9cf1db451329bac704d2c41c1f652a321bc76cd49ba98",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-staff-0.1.29/ShihabLms-staff-0.1.29.apk"
             },
     "signingCertSha256":  "d5c256eb49ead5b28abe8da52475d56dd3a910f38077342b9ab2505d57906b5e",
-    "builtAt":  "2026-11-18T12:29:37Z",
-    "notes":  "\u003c!-- update\nmandatory: false\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- إصدار كود من عرض خاص يفعّل عدة كورسات للطالب دفعة واحدة.\n\n\u003c!-- source-commit: 3a5e0c758dce2b1adc6759ab6f2b604ee3963679 --\u003e\n"
+    "builtAt":  "2026-11-19T11:23:38Z",
+    "notes":  "\u003c!-- update\nmandatory: false\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- علامة صح بجانب نسبة كل درس في المتابعة حين يكمل الطالب مشاهدته أو يعلّمه مكتملاً بنفسه.\n- تقرير الطالب PDF يفصل المشاهدة الفعلية عن ضغط زر الإتمام، ويبرز ما علّمه الطالب بيده وشاهد منه أقل من 30%.\n- أزرار التحديث تدور أثناء العمل ثم تُظهر النتيجة.\n\n\u003c!-- source-commit: a26a3f32c324c329fe75d6430a27d94e01582fb3-dirty --\u003e\n"
 }
