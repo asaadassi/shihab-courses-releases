@@ -2,17 +2,17 @@
     "format":  1,
     "instituteId":  "edupark",
     "applicationId":  "com.Perfect.center.edu.park",
-    "tag":  "shihablms-edupark-0.4.48",
-    "version":  "0.4.48",
-    "versionCode":  448058,
+    "tag":  "shihablms-edupark-0.4.49",
+    "version":  "0.4.49",
+    "versionCode":  449059,
     "minSdk":  26,
     "apk":  {
-                "name":  "ShihabLms-edupark-0.4.48.apk",
-                "size":  2374058,
-                "sha256":  "ffeec24f1824178d85d276b068aa90499425a3002c94cfe52517396fb4b4842a",
-                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.48/ShihabLms-edupark-0.4.48.apk"
+                "name":  "ShihabLms-edupark-0.4.49.apk",
+                "size":  2379606,
+                "sha256":  "25820c3f990af8a05a5f27075419976e6eb0d8a891fa33ececb29c10400d2722",
+                "url":  "https://github.com/asaadassi/shihab-courses-releases/releases/download/shihablms-edupark-0.4.49/ShihabLms-edupark-0.4.49.apk"
             },
     "signingCertSha256":  "36706ead52f579defd7295009e6c69128e268403c3f482aa4bcbfcf7f6c703de",
-    "builtAt":  "2026-11-19T11:20:42Z",
-    "notes":  "\u003c!-- update\nmandatory: false\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- الدرس الذي تعلّمه مكتملاً بنفسك يظهر لمعهدك، مع نسبة ما شاهدته منه.\n- زر التحديث يدور أثناء العمل ثم يُظهر النتيجة.\n\n\u003c!-- source-commit: 68915d7df5692e24564546af8e63ae63bd86bf05-dirty --\u003e\n"
+    "builtAt":  "2026-11-20T11:30:25Z",
+    "notes":  "\u003c!-- update\nmandatory: true\n--\u003e\n\u003c!-- ar --\u003e\n## جديد\n\n- إشعار رسالة المعهد يعرض نص الرسالة نفسه، ولقب المدرّب حين تكون منه.\n- تحسينات في شكل بطاقات الدروس في صفحة الكورس.\n\n\u003c!-- source-commit: 2ebcbf580edbae0f825d1980795ec3a0526217c9-dirty --\u003e\n"
 }
